@@ -14,7 +14,7 @@
 
 Nexiogen es una plataforma SaaS multi-tenant para gestión de repartos de última milla. Optimiza rutas automáticamente, registra prueba de entrega (POD) desde el móvil y monitorea el estado en tiempo real.
 
-**Caso de uso inicial:** Corporación Municipal de Renca — entregas de beneficios sociales a domicilio.
+**Caso de uso inicial:** Corporación Municipal — entregas de beneficios sociales a domicilio.
 
 ---
 
